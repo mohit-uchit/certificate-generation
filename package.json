@@ -64,6 +64,7 @@
     "next-themes": "^0.4.6",
     "nodemailer": "latest",
     "path": "latest",
+    "puppeteer": "^21.0.0",
     "qrcode": "latest",
     "react": "^18",
     "react-day-picker": "9.8.0",
@@ -81,7 +82,9 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.9",
+    "@types/bcryptjs": "^2.4.6",
     "@types/node": "^22",
+    "@types/nodemailer": "6.4.14",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "postcss": "^8.5",
